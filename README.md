@@ -15,3 +15,5 @@ In `index.js` file, you should set the path to your xlsx file and set your messa
 
 **In your xlsx file, you should always have a column called `phone`**
 You can add other columns in your xlsx file such as **name** and use it in your message like `Hi {{name}}`.
+
+**Note that you should add numbers with country codes.**
