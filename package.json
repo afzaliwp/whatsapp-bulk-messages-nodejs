@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-bulk-messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^15.4.0",
+    "read-excel-file": "^5.4.2",
+    "wbm": "^1.1.16"
+  }
+}
